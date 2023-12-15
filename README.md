@@ -43,5 +43,7 @@ If you have any issues that you want help with, feel free to join the support se
 ### Dark Matter by Gibbu
 ### Midnight Discord by refact0r
 Git links to themes:
+
 https://github.com/DiscordStyles/DarkMatter
+
 https://github.com/refact0r/midnight-discord
