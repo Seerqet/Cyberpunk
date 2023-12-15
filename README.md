@@ -6,7 +6,19 @@ Cyberpunk Theme that you can apply in BetterDiscord, Vencord, OpenAsar, and any 
 
 
 ## Video Demonstration: 
-https://youtu.be/U48pfIR3GSQ
+
+
+
+
+
+
+https://github.com/Seerqet/Cyberpunk/assets/144261569/1c4096bb-a067-4269-8fcf-cb5b3a54cb3c
+> Don't mind the poor quality github doesn't allow embeds over 10mb in a video
+> If you want a higher quality preview visit [this link!](https://youtu.be/U48pfIR3GSQ)
+
+
+
+
 
 
 ## Customization:
