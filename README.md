@@ -21,8 +21,8 @@ If you have any issues that you want help with, feel free to join the support se
 <https://discord.gg/3GVnMp5Xsa>
 
 ## Inspiration Credits: 
-Dark Matter by Gibbu and others,
-Midnight Discord by refact0r,
-git links to themes:
+### Dark Matter by Gibbu
+### Midnight Discord by refact0r
+Git links to themes:
 https://github.com/DiscordStyles/DarkMatter
 https://github.com/refact0r/midnight-discord
