@@ -21,6 +21,19 @@ Cyberpunk has almost every line of code with a description making it easy and us
 2. Put the file into your theme folder. (there should be a button to open the theme folder in theme settings)
 3. Customize the theme in `Cyberpunk-Theme.css`.
 
+## Clients to use:
+> [!IMPORTANT]
+> Each Client has their own support server in discord which can be found on their websites.
+
+BetterDiscord (BD):
+https://docs.betterdiscord.app/users/getting-started/installation/
+
+Vencord: 
+https://vencord.dev/download/
+
+OpenAsar (OA):
+https://openasar.dev/#
+
 ## Support:
 If you have any issues that you want help with, feel free to join the support server!
 <https://discord.gg/3GVnMp5Xsa>
