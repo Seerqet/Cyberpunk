@@ -6,19 +6,7 @@ Cyberpunk Theme that you can apply in BetterDiscord, Vencord, OpenAsar, and any 
 
 
 ## Video Demonstration: 
-
-
-
-
-
-
-https://github.com/Seerqet/Cyberpunk/assets/144261569/1c4096bb-a067-4269-8fcf-cb5b3a54cb3c
-> Don't mind the poor quality github doesn't allow embeds over 10mb in a video
-> If you want a higher quality preview visit [this link!](https://youtu.be/U48pfIR3GSQ)
-
-
-
-
+https://youtu.be/U48pfIR3GSQ
 
 
 ## Customization:
@@ -37,14 +25,19 @@ Cyberpunk has almost every line of code with a description making it easy and us
 > [!IMPORTANT]
 > Each Client has their own support server in discord which can be found on their websites.
 
-BetterDiscord (BD):
-https://docs.betterdiscord.app/users/getting-started/installation/
+## Better Discord (BD):
+![BDLogo](https://github.com/Seerqet/Cyberpunk/assets/144261569/c3096d02-0ea5-4601-981a-07847c1de66a)
 
-Vencord: 
-https://vencord.dev/download/
+[Click me to download Better Discord](https://docs.betterdiscord.app/users/getting-started/installation/)
 
-OpenAsar (OA):
-https://openasar.dev/#
+
+## Vencord (VC):
+![Vencord-logo](https://github.com/Seerqet/Cyberpunk/assets/144261569/cc5a23a8-d4be-478d-bf22-2c4ddeca5114)
+
+[Click me to download Vencord](https://vencord.dev/download/)
+
+## OpenAsar (OA):
+[Click me to download OpenAsar](https://openasar.dev/#)
 
 ## Support:
 If you have any issues that you want help with, feel free to join the support server!
