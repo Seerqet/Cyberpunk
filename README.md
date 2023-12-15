@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Seerqet/Cyberpunk/assets/144261569/374b3452-3727-4ff7-9e51-ef8c7c2e1502" height="300" width="520">
+<img src="https://github.com/Seerqet/Cyberpunk/assets/144261569/374b3452-3727-4ff7-9e51-ef8c7c2e1502" width="520">
   <br Cyberpunk is a css theme to personalize your discord.>
 </div>
 
