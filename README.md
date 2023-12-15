@@ -36,6 +36,7 @@ https://openasar.dev/#
 
 ## Support:
 If you have any issues that you want help with, feel free to join the support server!
+
 <https://discord.gg/3GVnMp5Xsa>
 
 ## Inspiration Credits: 
