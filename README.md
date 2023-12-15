@@ -41,10 +41,6 @@ Cyberpunk has almost every line of code with a description making it easy and us
 
 [Armcord download](https://armcord.app/download)
 
-## Vencord (VC):
-![Vencord-logo](https://github.com/Seerqet/Cyberpunk/assets/144261569/cc5a23a8-d4be-478d-bf22-2c4ddeca5114)
-
-[Vencord Download](https://vencord.dev/download/)
 
 ## OpenAsar (OA):
 [OpenAsar Download](https://openasar.dev/#)
