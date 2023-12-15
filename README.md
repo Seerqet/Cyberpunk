@@ -8,11 +8,11 @@
 Cyberpunk Theme that you can apply in BetterDiscord, Vencord, OpenAsar, and any other client that can upload custom css code!
 > This is a remake/combination of two themes; DarkMatter & Midnight.
 
-![image](https://github.com/Seerqet/Cyberpunk/assets/144261569/56d3f3cd-8446-417b-beb6-2d1110b529b0)
-
 
 ## Video Demonstration: 
-https://youtu.be/U48pfIR3GSQ
+
+https://github.com/Seerqet/Cyberpunk/assets/144261569/37c01967-0ceb-4681-b9ec-73baa33278a8
+> I apologize for the poor quality, if you want a better quality preview [click me](https://youtu.be/U48pfIR3GSQ)
 
 
 ## Customization:
@@ -34,16 +34,20 @@ Cyberpunk has almost every line of code with a description making it easy and us
 ## Better Discord (BD):
 ![BDLogo](https://github.com/Seerqet/Cyberpunk/assets/144261569/c3096d02-0ea5-4601-981a-07847c1de66a)
 
-[Click me to download Better Discord](https://docs.betterdiscord.app/users/getting-started/installation/)
+[Better Discord Download](https://docs.betterdiscord.app/users/getting-started/installation/)
 
+## Armcord (AC):
+![Armcord-logo](https://armcord.app/logo.png)
+
+[Armcord download](https://armcord.app/download)
 
 ## Vencord (VC):
 ![Vencord-logo](https://github.com/Seerqet/Cyberpunk/assets/144261569/cc5a23a8-d4be-478d-bf22-2c4ddeca5114)
 
-[Click me to download Vencord](https://vencord.dev/download/)
+[Vencord Download](https://vencord.dev/download/)
 
 ## OpenAsar (OA):
-[Click me to download OpenAsar](https://openasar.dev/#)
+[OpenAsar Download](https://openasar.dev/#)
 
 ## Support:
 If you have any issues that you want help with, feel free to join the support server!
