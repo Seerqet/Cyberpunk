@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://github.com/Seerqet/Cyberpunk/assets/144261569/56d3f3cd-8446-417b-beb6-2d1110b529b0">
+<br Cyberpunk is a css theme to personalize your discord.>
+</div>
+
+
 # Cyberpunk
 Cyberpunk Theme that you can apply in BetterDiscord, Vencord, OpenAsar, and any other client that can upload custom css code!
 > This is a remake/combination of two themes; DarkMatter & Midnight.
