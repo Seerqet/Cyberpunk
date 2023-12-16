@@ -48,7 +48,7 @@ Cyberpunk has almost every line of code with a description making it easy and us
 ## Support:
 If you have any issues that you want help with, feel free to join the support server!
 
-<https://discord.gg/3GVnMp5Xsa>
+[Cyberpunk Support Server](https://discord.gg/3GVnMp5Xsa)
 
 ## Inspiration Credits: 
 ### Dark Matter by Gibbu
